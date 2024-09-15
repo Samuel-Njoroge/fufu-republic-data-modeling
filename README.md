@@ -43,23 +43,23 @@ dimensional model to address the business's needs for data-driven decision-makin
 - Identify the grain, dimensions and fact.
 
 # Solution
-## Understanding Fufu Republic Restaurant Chain.
+## An Overview of Fufu Republic Restaurant Chain.
 ![](https://github.com/Samuel-Njoroge/fufu-republic-data-modeling/blob/main/fufu-republic-restaurants.png)
 
 ## Entities
-`1. Branch :` Restaurant in different areas.
+1. `Branch :` Restaurant in different areas.
 
-`2. Customer :` An individual who buys from any of the branch.
+2. `Customer :` An individual who buys from any of the branch.
 
-`3. Order :` Customer's request.
+3. `Order :` Customer's request.
 
-`4. Order_item :` Item requested by  customer.
+4. `Order_item :` Item requested by  customer.
 
-`5. Menu_item :` List of dishes sold in the branch.
+5. `Menu_item :` List of dishes sold in the branch.
 
-`6. Inventory :` Stock levels of the dishes.
+6. `Inventory :` Stock levels of the dishes.
 
-`7. Payment_method :` Mode of payment.
+7. `Payment_method :` Mode of payment.
 
 ## Entity Relationship Diagram.
 ![](https://github.com/Samuel-Njoroge/fufu-republic-data-modeling/blob/main/fufu-republic-data-model.png)
